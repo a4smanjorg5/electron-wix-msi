@@ -26,7 +26,7 @@ It allows up- and downgrades. For more details, see:
 ## Prerequisites
 
 Before using this module, make sure to
-[install the Wix toolkit v3](http://wixtoolset.org/releases/). Only the command
+[install the Wix toolkit v3](https://github.com/wixtoolset/wix3). Only the command
 line tools are required. If you are using AppVeyor or another Windows CI system,
 it is likely already installed.
 
